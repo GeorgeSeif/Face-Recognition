@@ -45,10 +45,13 @@ The step-by-step pipeline is as follows:
 ## References
 [1] Ahonen, T., Hadid, A. and Pietikäinen, M. (2006), Face Description with Local Binary Patterns: Application
 to Face Recognition. IEEE Trans. Pattern Analysis and Machine Intelligence 28(12):2037-2041.
+
 [2] V. Kazemi and J. Sullivan, One Millisecond Face Alignment with an Ensemble of Regression Trees, 1st
 ed. Stockholm, Sweden: Computer Vision and Active Perception Lab, 2014.
+
 [3] X. Tan and B. Triggs, Enhanced Local Texture Feature Sets for Face Recognition Under Difficult
 Lighting Conditions, 1st ed. Montbonnot, France: INRIA & Laboratoire Jean Kuntzmann, 2007.
+
 [4] P. Viola and M. Jones, Robust Real-Time Face Detection, 1st ed. Netherlands: Kluwer Academic Publishers,
 2004.
 
